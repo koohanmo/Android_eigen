@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">AndroidEigen</string>
     <string name="title_activity_ndk_initial">Ndk_initial</string>
+    <string name="title_activity_eigen_start">EigenStartActivity</string>
 </resources>

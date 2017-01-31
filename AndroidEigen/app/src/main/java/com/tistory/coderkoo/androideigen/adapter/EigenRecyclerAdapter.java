@@ -71,5 +71,4 @@ public class EigenRecyclerAdapter extends RecyclerView.Adapter{
             });
         }
     }
-
 }

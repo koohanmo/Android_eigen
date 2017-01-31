@@ -8,7 +8,7 @@ import android.support.v7.widget.Toolbar;
 import android.view.View;
 import android.widget.TextView;
 
-public class Ndkinitial extends AppCompatActivity {
+public class NdkinitialActivity extends AppCompatActivity {
 
     // Used to load the 'native-lib' library on application startup.
     static {

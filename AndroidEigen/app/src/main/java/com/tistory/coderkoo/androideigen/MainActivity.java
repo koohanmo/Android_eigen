@@ -32,7 +32,8 @@ public class MainActivity extends AppCompatActivity {
 
     private void makeData(){
         dataSet= new ArrayList<>();
-        dataSet.add(new EigenOperation("NDK_initial_code","used string to JNI",Ndkinitial.class));
+        dataSet.add(new EigenOperation("NDK_initial_code","used string to JNI",NdkinitialActivity.class));
+        dataSet.add(new EigenOperation("Simple first program with Eigen","simple matrix +operation",EigenStartActivity.class));
     }
 
 }

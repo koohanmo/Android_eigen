@@ -16,8 +16,12 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".Ndkinitial"
+            android:name=".NdkinitialActivity"
             android:label="@string/title_activity_ndk_initial"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".EigenStartActivity"
+            android:label="@string/title_activity_eigen_start"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
