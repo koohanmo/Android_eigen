@@ -3,7 +3,7 @@
 
 extern "C"
 jstring
-Java_com_tistory_coderkoo_androideigen_MainActivity_stringFromJNI(
+Java_com_tistory_coderkoo_androideigen_Ndkinitial_stringFromJNI(
         JNIEnv *env,
         jobject /* this */) {
     std::string hello = "Hello from C++";
